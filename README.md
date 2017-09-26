@@ -1,6 +1,8 @@
 # sacem 2016
 
-Redistribution de la Sacem avec les fonds de redevance copie privée
+Redistribution de la Sacem avec les fonds de redevance copie privée.
+
+Fichier csv: [sacem.csv](sacem.csv)
 
 Options d'ouverture du csv (ici avec LibreOffice):
 
